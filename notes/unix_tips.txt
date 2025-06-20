@@ -1,0 +1,6 @@
+# Unix Tips and Tricks
+- Use `ls -la` to see hidden files.
+- The `grep` command searches for text patterns.
+- Use `man <command>` to read the manual page.
+- `pwd` shows your current directory.
+- Combine commands with pipes | and redirect output with >.

@@ -1,0 +1,5 @@
+- Finish lab assignment
+- Study for quiz
+- Review class notes
+- Install new Python packages
+- Submit homework on LMS

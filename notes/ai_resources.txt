@@ -1,0 +1,6 @@
+# AI Learning Resources
+- OpenAI: https://openai.com
+- DeepLearning.AI: https://www.deeplearning.ai
+- Stanford CS224N: https://web.stanford.edu/class/cs224n/
+- Fast.ai: https://course.fast.ai/
+- Kaggle: https://www.kaggle.com/learn/overview

@@ -1,0 +1,5 @@
+Welcome to your first Unix terminal lab!
+
+Here you will practice essential commands every developer should know.
+
+Tip: Try using `cat`, `head`, `tail`, or `grep` on this file.

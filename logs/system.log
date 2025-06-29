@@ -1,6 +1,200 @@
-[2025-06-30 09:01:15] System started.
-[2025-06-30 09:02:48] User login: student01
-[2025-06-30 09:04:11] Network connection established.
-[2025-06-30 09:10:37] Warning: Disk space low.
-[2025-06-30 09:15:21] System update completed.
-[2025-06-30 09:30:55] User logout: student01
+Jun 29 20:22:02 Kevins-MacBook-Pro sandboxd[612]: deny(1) file-read-data /Users/kevin/Downloads/Resume.pdf
+Jun 29 20:22:03 Kevins-MacBook-Pro com.apple.xpc.launchd[1]: Opened dictionary file: /System/Library/Assets/com_apple_MobileAsset_SpellChecker/English.dict
+Jun 29 20:22:04 Kevins-MacBook-Pro Finder[309]: Opened dictionary file: /System/Library/Assets/com_apple_MobileAsset_SpellChecker/English.dict
+Jun 29 20:22:05 Kevins-MacBook-Pro install_monitor[712]: (Warning) Metadata.framework: MDItemRef not found for /Users/kevin/Documents/Test.txt
+Jun 29 20:22:06 Kevins-MacBook-Pro sandboxd[612]: Service exited due to SIGKILL | sent by mds[85]
+Jun 29 20:22:07 Kevins-MacBook-Pro diskmanagementd[222]: LSExceptions shared instance invalidated for timeout
+Jun 29 20:22:08 Kevins-MacBook-Pro loginwindow[102]: LSExceptions shared instance invalidated for timeout
+Jun 29 20:22:09 Kevins-MacBook-Pro coreaudiod[80]: Backup skipped: Volume is read-only.
+Jun 29 20:22:10 Kevins-MacBook-Pro Finder[309]: ASL Sender Statistics
+Jun 29 20:22:11 Kevins-MacBook-Pro mdworker_shared[432]: Opened dictionary file: /System/Library/Assets/com_apple_MobileAsset_SpellChecker/English.dict
+Jun 29 20:22:12 Kevins-MacBook-Pro mdworker[531]: deny(1) file-read-data /Users/kevin/Downloads/Resume.pdf
+Jun 29 20:22:13 Kevins-MacBook-Pro com.apple.WebKit.Networking[311]: Enabled Automatic Input Device Selection
+Jun 29 20:22:14 Kevins-MacBook-Pro com.apple.xpc.launchd[1]: ASL Sender Statistics
+Jun 29 20:22:15 Kevins-MacBook-Pro Finder[309]: [LogViewer] Error loading archive at path: /var/log/asl
+Jun 29 20:22:16 Kevins-MacBook-Pro mdworker_shared[432]: deny(1) file-read-data /Users/kevin/Downloads/Resume.pdf
+Jun 29 20:22:17 Kevins-MacBook-Pro coreaudiod[80]: Enabled Automatic Input Device Selection
+Jun 29 20:22:18 Kevins-MacBook-Pro syslogd[88]: Installer launched with PID 712, using pkg: ExampleInstaller.pkg
+Jun 29 20:22:19 Kevins-MacBook-Pro mdworker_shared[432]: deny(1) file-read-data /Users/kevin/Downloads/Resume.pdf
+Jun 29 20:22:20 Kevins-MacBook-Pro WindowServer[173]: Deprecated TLS version negotiated with https://insecure.example.com
+Jun 29 20:22:21 Kevins-MacBook-Pro WindowServer[173]: DM->IOKit: ioctl(APPLE_DISK_IMAGE_IOC_ATTACH) failed: 0xe00002c2
+Jun 29 20:22:22 Kevins-MacBook-Pro coreaudiod[80]: property list invalid for format: 200 (property lists cannot contain NULL)
+Jun 29 20:22:23 Kevins-MacBook-Pro AppleSpell[664]: Saved crash report for Pages[577] version 11.2 (7032.0.0)
+Jun 29 20:22:24 Kevins-MacBook-Pro bluetoothd[97]: Enabled Automatic Input Device Selection
+Jun 29 20:22:25 Kevins-MacBook-Pro coreaudiod[80]: (ImportBailout.Error:1325) Importer returned zero items
+Jun 29 20:22:26 Kevins-MacBook-Pro launchservicesd[92]: Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+Jun 29 20:22:27 Kevins-MacBook-Pro sandboxd[612]: GPU registers recovered
+Jun 29 20:22:28 Kevins-MacBook-Pro bluetoothd[97]: LSExceptions shared instance invalidated for timeout
+Jun 29 20:22:29 Kevins-MacBook-Pro install_monitor[712]: Installer launched with PID 712, using pkg: ExampleInstaller.pkg
+Jun 29 20:22:30 Kevins-MacBook-Pro launchservicesd[92]: DM->IOKit: ioctl(APPLE_DISK_IMAGE_IOC_ATTACH) failed: 0xe00002c2
+Jun 29 20:22:31 Kevins-MacBook-Pro loginwindow[102]: (ImportBailout.Error:1325) Importer returned zero items
+Jun 29 20:22:32 Kevins-MacBook-Pro WindowServer[173]: LSExceptions shared instance invalidated for timeout
+Jun 29 20:22:33 Kevins-MacBook-Pro com.apple.xpc.launchd[1]: DM->IOKit: ioctl(APPLE_DISK_IMAGE_IOC_ATTACH) failed: 0xe00002c2
+Jun 29 20:22:34 Kevins-MacBook-Pro launchservicesd[92]: SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=309
+Jun 29 20:22:35 Kevins-MacBook-Pro com.apple.WebKit.Networking[311]: Enabled Automatic Input Device Selection
+Jun 29 20:22:36 Kevins-MacBook-Pro spindump[620]: LSExceptions shared instance invalidated for timeout
+Jun 29 20:22:37 Kevins-MacBook-Pro sandboxd[612]: Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+Jun 29 20:22:38 Kevins-MacBook-Pro AppleSpell[664]: Opened dictionary file: /System/Library/Assets/com_apple_MobileAsset_SpellChecker/English.dict
+Jun 29 20:22:39 Kevins-MacBook-Pro sandboxd[612]: deny(1) file-read-data /Users/kevin/Downloads/Resume.pdf
+Jun 29 20:22:40 Kevins-MacBook-Pro Finder[309]: Error -25340 while storing keychain pairing record
+Jun 29 20:22:41 Kevins-MacBook-Pro mdworker[531]: SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=309
+Jun 29 20:22:42 Kevins-MacBook-Pro sandboxd[612]: (Warning) Metadata.framework: MDItemRef not found for /Users/kevin/Documents/Test.txt
+Jun 29 20:22:43 Kevins-MacBook-Pro bluetoothd[97]: LSExceptions shared instance invalidated for timeout
+Jun 29 20:22:44 Kevins-MacBook-Pro syslogd[88]: SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=309
+Jun 29 20:22:45 Kevins-MacBook-Pro mdworker[531]: deny(1) file-read-data /Users/kevin/Downloads/Resume.pdf
+Jun 29 20:22:46 Kevins-MacBook-Pro AppleSpell[664]: (Warning) Metadata.framework: MDItemRef not found for /Users/kevin/Documents/Test.txt
+Jun 29 20:22:47 Kevins-MacBook-Pro syslogd[88]: deny(1) file-read-data /Users/kevin/Downloads/Resume.pdf
+Jun 29 20:22:48 Kevins-MacBook-Pro sandboxd[612]: Deprecated TLS version negotiated with https://insecure.example.com
+Jun 29 20:22:49 Kevins-MacBook-Pro mdworker_shared[432]: deny(1) file-read-data /Users/kevin/Downloads/Resume.pdf
+Jun 29 20:22:50 Kevins-MacBook-Pro install_monitor[712]: Backup skipped: Volume is read-only.
+Jun 29 20:22:51 Kevins-MacBook-Pro bluetoothd[97]: DM->IOKit: ioctl(APPLE_DISK_IMAGE_IOC_ATTACH) failed: 0xe00002c2
+Jun 29 20:22:52 Kevins-MacBook-Pro Console[533]: Enabled Automatic Input Device Selection
+Jun 29 20:22:53 Kevins-MacBook-Pro Finder[309]: ASL Sender Statistics
+Jun 29 20:22:54 Kevins-MacBook-Pro bluetoothd[97]: SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=309
+Jun 29 20:22:55 Kevins-MacBook-Pro Finder[309]: (ImportBailout.Error:1325) Importer returned zero items
+Jun 29 20:22:56 Kevins-MacBook-Pro syslogd[88]: SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=309
+Jun 29 20:22:57 Kevins-MacBook-Pro AppleSpell[664]: Installer launched with PID 712, using pkg: ExampleInstaller.pkg
+Jun 29 20:22:58 Kevins-MacBook-Pro install_monitor[712]: [LogViewer] Error loading archive at path: /var/log/asl
+Jun 29 20:22:59 Kevins-MacBook-Pro com.apple.TimeMachine[603]: LSExceptions shared instance invalidated for timeout
+Jun 29 20:23:00 Kevins-MacBook-Pro mdworker_shared[432]: deny(1) file-read-data /Users/kevin/Downloads/Resume.pdf
+Jun 29 20:23:01 Kevins-MacBook-Pro AppleSpell[664]: Installer launched with PID 712, using pkg: ExampleInstaller.pkg
+Jun 29 20:23:02 Kevins-MacBook-Pro launchservicesd[92]: ASL Sender Statistics
+Jun 29 20:23:03 Kevins-MacBook-Pro syslogd[88]: (ImportBailout.Error:1325) Importer returned zero items
+Jun 29 20:23:04 Kevins-MacBook-Pro install_monitor[712]: Backup skipped: Volume is read-only.
+Jun 29 20:23:05 Kevins-MacBook-Pro Console[533]: Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+Jun 29 20:23:06 Kevins-MacBook-Pro coreaudiod[80]: Installer launched with PID 712, using pkg: ExampleInstaller.pkg
+Jun 29 20:23:07 Kevins-MacBook-Pro spindump[620]: property list invalid for format: 200 (property lists cannot contain NULL)
+Jun 29 20:23:08 Kevins-MacBook-Pro loginwindow[102]: SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=309
+Jun 29 20:23:09 Kevins-MacBook-Pro mdworker_shared[432]: DM->IOKit: ioctl(APPLE_DISK_IMAGE_IOC_ATTACH) failed: 0xe00002c2
+Jun 29 20:23:10 Kevins-MacBook-Pro launchservicesd[92]: ASL Sender Statistics
+Jun 29 20:23:11 Kevins-MacBook-Pro com.apple.xpc.launchd[1]: Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+Jun 29 20:23:12 Kevins-MacBook-Pro install_monitor[712]: Opened dictionary file: /System/Library/Assets/com_apple_MobileAsset_SpellChecker/English.dict
+Jun 29 20:23:13 Kevins-MacBook-Pro com.apple.WebKit.Networking[311]: Error -25340 while storing keychain pairing record
+Jun 29 20:23:14 Kevins-MacBook-Pro sandboxd[612]: (ImportBailout.Error:1325) Importer returned zero items
+Jun 29 20:23:15 Kevins-MacBook-Pro com.apple.WebKit.Networking[311]: GPU registers recovered
+Jun 29 20:23:16 Kevins-MacBook-Pro launchservicesd[92]: Enabled Automatic Input Device Selection
+Jun 29 20:23:17 Kevins-MacBook-Pro sandboxd[612]: Opened dictionary file: /System/Library/Assets/com_apple_MobileAsset_SpellChecker/English.dict
+Jun 29 20:23:18 Kevins-MacBook-Pro mdworker[531]: Error -25340 while storing keychain pairing record
+Jun 29 20:23:19 Kevins-MacBook-Pro spindump[620]: LSExceptions shared instance invalidated for timeout
+Jun 29 20:23:20 Kevins-MacBook-Pro com.apple.WebKit.Networking[311]: Enabled Automatic Input Device Selection
+Jun 29 20:23:21 Kevins-MacBook-Pro spindump[620]: Opened dictionary file: /System/Library/Assets/com_apple_MobileAsset_SpellChecker/English.dict
+Jun 29 20:23:22 Kevins-MacBook-Pro syslogd[88]: Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+Jun 29 20:23:23 Kevins-MacBook-Pro loginwindow[102]: (Warning) Metadata.framework: MDItemRef not found for /Users/kevin/Documents/Test.txt
+Jun 29 20:23:24 Kevins-MacBook-Pro diskmanagementd[222]: (Warning) Metadata.framework: MDItemRef not found for /Users/kevin/Documents/Test.txt
+Jun 29 20:23:25 Kevins-MacBook-Pro mdworker_shared[432]: (ImportBailout.Error:1325) Importer returned zero items
+Jun 29 20:23:26 Kevins-MacBook-Pro mdworker[531]: SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=309
+Jun 29 20:23:27 Kevins-MacBook-Pro Finder[309]: Enabled Automatic Input Device Selection
+Jun 29 20:23:28 Kevins-MacBook-Pro bluetoothd[97]: DM->IOKit: ioctl(APPLE_DISK_IMAGE_IOC_ATTACH) failed: 0xe00002c2
+Jun 29 20:23:29 Kevins-MacBook-Pro bluetoothd[97]: Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+Jun 29 20:23:30 Kevins-MacBook-Pro AppleSpell[664]: DM->IOKit: ioctl(APPLE_DISK_IMAGE_IOC_ATTACH) failed: 0xe00002c2
+Jun 29 20:23:31 Kevins-MacBook-Pro AppleSpell[664]: Installer launched with PID 712, using pkg: ExampleInstaller.pkg
+Jun 29 20:23:32 Kevins-MacBook-Pro launchservicesd[92]: Error -25340 while storing keychain pairing record
+Jun 29 20:23:33 Kevins-MacBook-Pro sandboxd[612]: property list invalid for format: 200 (property lists cannot contain NULL)
+Jun 29 20:23:34 Kevins-MacBook-Pro com.apple.xpc.launchd[1]: GPU registers recovered
+Jun 29 20:23:35 Kevins-MacBook-Pro install_monitor[712]: Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+Jun 29 20:23:36 Kevins-MacBook-Pro syslogd[88]: Backup skipped: Volume is read-only.
+Jun 29 20:23:37 Kevins-MacBook-Pro mdworker_shared[432]: [LogViewer] Error loading archive at path: /var/log/asl
+Jun 29 20:23:38 Kevins-MacBook-Pro Finder[309]: Installer launched with PID 712, using pkg: ExampleInstaller.pkg
+Jun 29 20:23:39 Kevins-MacBook-Pro Console[533]: SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=309
+Jun 29 20:23:40 Kevins-MacBook-Pro loginwindow[102]: Saved crash report for Pages[577] version 11.2 (7032.0.0)
+Jun 29 20:23:41 Kevins-MacBook-Pro install_monitor[712]: Backup skipped: Volume is read-only.
+Jun 29 20:23:42 Kevins-MacBook-Pro loginwindow[102]: DM->IOKit: ioctl(APPLE_DISK_IMAGE_IOC_ATTACH) failed: 0xe00002c2
+Jun 29 20:23:43 Kevins-MacBook-Pro Finder[309]: GPU registers recovered
+Jun 29 20:23:44 Kevins-MacBook-Pro Finder[309]: ASL Sender Statistics
+Jun 29 20:23:45 Kevins-MacBook-Pro syslogd[88]: deny(1) file-read-data /Users/kevin/Downloads/Resume.pdf
+Jun 29 20:23:46 Kevins-MacBook-Pro Console[533]: ASL Sender Statistics
+Jun 29 20:23:47 Kevins-MacBook-Pro diskmanagementd[222]: LSExceptions shared instance invalidated for timeout
+Jun 29 20:23:48 Kevins-MacBook-Pro WindowServer[173]: SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=309
+Jun 29 20:23:49 Kevins-MacBook-Pro install_monitor[712]: SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=309
+Jun 29 20:23:50 Kevins-MacBook-Pro mdworker[531]: SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=309
+Jun 29 20:23:51 Kevins-MacBook-Pro loginwindow[102]: GPU registers recovered
+Jun 29 20:23:52 Kevins-MacBook-Pro mdworker[531]: Saved crash report for Pages[577] version 11.2 (7032.0.0)
+Jun 29 20:23:53 Kevins-MacBook-Pro com.apple.TimeMachine[603]: Installer launched with PID 712, using pkg: ExampleInstaller.pkg
+Jun 29 20:23:54 Kevins-MacBook-Pro com.apple.TimeMachine[603]: DM->IOKit: ioctl(APPLE_DISK_IMAGE_IOC_ATTACH) failed: 0xe00002c2
+Jun 29 20:23:55 Kevins-MacBook-Pro bluetoothd[97]: GPU registers recovered
+Jun 29 20:23:56 Kevins-MacBook-Pro Finder[309]: deny(1) file-read-data /Users/kevin/Downloads/Resume.pdf
+Jun 29 20:23:57 Kevins-MacBook-Pro bluetoothd[97]: Enabled Automatic Input Device Selection
+Jun 29 20:23:58 Kevins-MacBook-Pro loginwindow[102]: Deprecated TLS version negotiated with https://insecure.example.com
+Jun 29 20:23:59 Kevins-MacBook-Pro coreaudiod[80]: Saved crash report for Pages[577] version 11.2 (7032.0.0)
+Jun 29 20:24:00 Kevins-MacBook-Pro syslogd[88]: LSExceptions shared instance invalidated for timeout
+Jun 29 20:24:01 Kevins-MacBook-Pro WindowServer[173]: [LogViewer] Error loading archive at path: /var/log/asl
+Jun 29 20:24:02 Kevins-MacBook-Pro spindump[620]: Opened dictionary file: /System/Library/Assets/com_apple_MobileAsset_SpellChecker/English.dict
+Jun 29 20:24:03 Kevins-MacBook-Pro sandboxd[612]: (ImportBailout.Error:1325) Importer returned zero items
+Jun 29 20:24:04 Kevins-MacBook-Pro install_monitor[712]: Service exited due to SIGKILL | sent by mds[85]
+Jun 29 20:24:05 Kevins-MacBook-Pro Finder[309]: SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=309
+Jun 29 20:24:06 Kevins-MacBook-Pro loginwindow[102]: GPU registers recovered
+Jun 29 20:24:07 Kevins-MacBook-Pro diskmanagementd[222]: Backup skipped: Volume is read-only.
+Jun 29 20:24:08 Kevins-MacBook-Pro Console[533]: SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=309
+Jun 29 20:24:09 Kevins-MacBook-Pro com.apple.xpc.launchd[1]: ASL Sender Statistics
+Jun 29 20:24:10 Kevins-MacBook-Pro mdworker[531]: deny(1) file-read-data /Users/kevin/Downloads/Resume.pdf
+Jun 29 20:24:11 Kevins-MacBook-Pro com.apple.TimeMachine[603]: (Warning) Metadata.framework: MDItemRef not found for /Users/kevin/Documents/Test.txt
+Jun 29 20:24:12 Kevins-MacBook-Pro launchservicesd[92]: Deprecated TLS version negotiated with https://insecure.example.com
+Jun 29 20:24:13 Kevins-MacBook-Pro launchservicesd[92]: (ImportBailout.Error:1325) Importer returned zero items
+Jun 29 20:24:14 Kevins-MacBook-Pro loginwindow[102]: ASL Sender Statistics
+Jun 29 20:24:15 Kevins-MacBook-Pro diskmanagementd[222]: Opened dictionary file: /System/Library/Assets/com_apple_MobileAsset_SpellChecker/English.dict
+Jun 29 20:24:16 Kevins-MacBook-Pro launchservicesd[92]: LSExceptions shared instance invalidated for timeout
+Jun 29 20:24:17 Kevins-MacBook-Pro WindowServer[173]: ASL Sender Statistics
+Jun 29 20:24:18 Kevins-MacBook-Pro com.apple.xpc.launchd[1]: Backup skipped: Volume is read-only.
+Jun 29 20:24:19 Kevins-MacBook-Pro mdworker_shared[432]: Opened dictionary file: /System/Library/Assets/com_apple_MobileAsset_SpellChecker/English.dict
+Jun 29 20:24:20 Kevins-MacBook-Pro mdworker[531]: property list invalid for format: 200 (property lists cannot contain NULL)
+Jun 29 20:24:21 Kevins-MacBook-Pro diskmanagementd[222]: Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+Jun 29 20:24:22 Kevins-MacBook-Pro Finder[309]: property list invalid for format: 200 (property lists cannot contain NULL)
+Jun 29 20:24:23 Kevins-MacBook-Pro install_monitor[712]: deny(1) file-read-data /Users/kevin/Downloads/Resume.pdf
+Jun 29 20:24:24 Kevins-MacBook-Pro mdworker[531]: LSExceptions shared instance invalidated for timeout
+Jun 29 20:24:25 Kevins-MacBook-Pro com.apple.TimeMachine[603]: Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+Jun 29 20:24:26 Kevins-MacBook-Pro com.apple.WebKit.Networking[311]: [LogViewer] Error loading archive at path: /var/log/asl
+Jun 29 20:24:27 Kevins-MacBook-Pro Finder[309]: [LogViewer] Error loading archive at path: /var/log/asl
+Jun 29 20:24:28 Kevins-MacBook-Pro bluetoothd[97]: Opened dictionary file: /System/Library/Assets/com_apple_MobileAsset_SpellChecker/English.dict
+Jun 29 20:24:29 Kevins-MacBook-Pro Console[533]: (ImportBailout.Error:1325) Importer returned zero items
+Jun 29 20:24:30 Kevins-MacBook-Pro syslogd[88]: deny(1) file-read-data /Users/kevin/Downloads/Resume.pdf
+Jun 29 20:24:31 Kevins-MacBook-Pro launchservicesd[92]: ASL Sender Statistics
+Jun 29 20:24:32 Kevins-MacBook-Pro Finder[309]: Opened dictionary file: /System/Library/Assets/com_apple_MobileAsset_SpellChecker/English.dict
+Jun 29 20:24:33 Kevins-MacBook-Pro AppleSpell[664]: Installer launched with PID 712, using pkg: ExampleInstaller.pkg
+Jun 29 20:24:34 Kevins-MacBook-Pro mdworker_shared[432]: Saved crash report for Pages[577] version 11.2 (7032.0.0)
+Jun 29 20:24:35 Kevins-MacBook-Pro sandboxd[612]: (ImportBailout.Error:1325) Importer returned zero items
+Jun 29 20:24:36 Kevins-MacBook-Pro mdworker_shared[432]: Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+Jun 29 20:24:37 Kevins-MacBook-Pro mdworker_shared[432]: property list invalid for format: 200 (property lists cannot contain NULL)
+Jun 29 20:24:38 Kevins-MacBook-Pro Console[533]: SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=309
+Jun 29 20:24:39 Kevins-MacBook-Pro syslogd[88]: Saved crash report for Pages[577] version 11.2 (7032.0.0)
+Jun 29 20:24:40 Kevins-MacBook-Pro sandboxd[612]: [LogViewer] Error loading archive at path: /var/log/asl
+Jun 29 20:24:41 Kevins-MacBook-Pro Console[533]: DM->IOKit: ioctl(APPLE_DISK_IMAGE_IOC_ATTACH) failed: 0xe00002c2
+Jun 29 20:24:42 Kevins-MacBook-Pro com.apple.TimeMachine[603]: Saved crash report for Pages[577] version 11.2 (7032.0.0)
+Jun 29 20:24:43 Kevins-MacBook-Pro diskmanagementd[222]: (ImportBailout.Error:1325) Importer returned zero items
+Jun 29 20:24:44 Kevins-MacBook-Pro AppleSpell[664]: Error -25340 while storing keychain pairing record
+Jun 29 20:24:45 Kevins-MacBook-Pro com.apple.WebKit.Networking[311]: [LogViewer] Error loading archive at path: /var/log/asl
+Jun 29 20:24:46 Kevins-MacBook-Pro com.apple.TimeMachine[603]: DM->IOKit: ioctl(APPLE_DISK_IMAGE_IOC_ATTACH) failed: 0xe00002c2
+Jun 29 20:24:47 Kevins-MacBook-Pro install_monitor[712]: ASL Sender Statistics
+Jun 29 20:24:48 Kevins-MacBook-Pro Finder[309]: deny(1) file-read-data /Users/kevin/Downloads/Resume.pdf
+Jun 29 20:24:49 Kevins-MacBook-Pro coreaudiod[80]: Error -25340 while storing keychain pairing record
+Jun 29 20:24:50 Kevins-MacBook-Pro com.apple.xpc.launchd[1]: Service exited due to SIGKILL | sent by mds[85]
+Jun 29 20:24:51 Kevins-MacBook-Pro AppleSpell[664]: property list invalid for format: 200 (property lists cannot contain NULL)
+Jun 29 20:24:52 Kevins-MacBook-Pro mdworker[531]: Backup skipped: Volume is read-only.
+Jun 29 20:24:53 Kevins-MacBook-Pro com.apple.xpc.launchd[1]: Saved crash report for Pages[577] version 11.2 (7032.0.0)
+Jun 29 20:24:54 Kevins-MacBook-Pro com.apple.TimeMachine[603]: (Warning) Metadata.framework: MDItemRef not found for /Users/kevin/Documents/Test.txt
+Jun 29 20:24:55 Kevins-MacBook-Pro mdworker[531]: Error -25340 while storing keychain pairing record
+Jun 29 20:24:56 Kevins-MacBook-Pro loginwindow[102]: SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=309
+Jun 29 20:24:57 Kevins-MacBook-Pro launchservicesd[92]: Enabled Automatic Input Device Selection
+Jun 29 20:24:58 Kevins-MacBook-Pro spindump[620]: Saved crash report for Pages[577] version 11.2 (7032.0.0)
+Jun 29 20:24:59 Kevins-MacBook-Pro com.apple.WebKit.Networking[311]: property list invalid for format: 200 (property lists cannot contain NULL)
+Jun 29 20:25:00 Kevins-MacBook-Pro loginwindow[102]: SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=309
+Jun 29 20:25:01 Kevins-MacBook-Pro diskmanagementd[222]: Service exited due to SIGKILL | sent by mds[85]
+Jun 29 20:25:02 Kevins-MacBook-Pro mdworker_shared[432]: (Warning) Metadata.framework: MDItemRef not found for /Users/kevin/Documents/Test.txt
+Jun 29 20:25:03 Kevins-MacBook-Pro mdworker_shared[432]: Error -25340 while storing keychain pairing record
+Jun 29 20:25:04 Kevins-MacBook-Pro sandboxd[612]: deny(1) file-read-data /Users/kevin/Downloads/Resume.pdf
+Jun 29 20:25:05 Kevins-MacBook-Pro spindump[620]: (Warning) Metadata.framework: MDItemRef not found for /Users/kevin/Documents/Test.txt
+Jun 29 20:25:06 Kevins-MacBook-Pro com.apple.WebKit.Networking[311]: Opened dictionary file: /System/Library/Assets/com_apple_MobileAsset_SpellChecker/English.dict
+Jun 29 20:25:07 Kevins-MacBook-Pro Console[533]: property list invalid for format: 200 (property lists cannot contain NULL)
+Jun 29 20:25:08 Kevins-MacBook-Pro loginwindow[102]: Error -25340 while storing keychain pairing record
+Jun 29 20:25:09 Kevins-MacBook-Pro sandboxd[612]: Opened dictionary file: /System/Library/Assets/com_apple_MobileAsset_SpellChecker/English.dict
+Jun 29 20:25:10 Kevins-MacBook-Pro mdworker[531]: Error -25340 while storing keychain pairing record
+Jun 29 20:25:11 Kevins-MacBook-Pro Finder[309]: Error -25340 while storing keychain pairing record
+Jun 29 20:25:12 Kevins-MacBook-Pro Console[533]: deny(1) file-read-data /Users/kevin/Downloads/Resume.pdf
+Jun 29 20:25:13 Kevins-MacBook-Pro sandboxd[612]: LSExceptions shared instance invalidated for timeout
+Jun 29 20:25:14 Kevins-MacBook-Pro com.apple.WebKit.Networking[311]: Saved crash report for Pages[577] version 11.2 (7032.0.0)
+Jun 29 20:25:15 Kevins-MacBook-Pro loginwindow[102]: Backup skipped: Volume is read-only.
+Jun 29 20:25:16 Kevins-MacBook-Pro launchservicesd[92]: [LogViewer] Error loading archive at path: /var/log/asl
+Jun 29 20:25:17 Kevins-MacBook-Pro diskmanagementd[222]: Deprecated TLS version negotiated with https://insecure.example.com
+Jun 29 20:25:18 Kevins-MacBook-Pro mdworker_shared[432]: Saved crash report for Pages[577] version 11.2 (7032.0.0)
+Jun 29 20:25:19 Kevins-MacBook-Pro install_monitor[712]: [LogViewer] Error loading archive at path: /var/log/asl
+Jun 29 20:25:20 Kevins-MacBook-Pro loginwindow[102]: ASL Sender Statistics
+Jun 29 20:25:21 Kevins-MacBook-Pro com.apple.TimeMachine[603]: Opened dictionary file: /System/Library/Assets/com_apple_MobileAsset_SpellChecker/English.dict
